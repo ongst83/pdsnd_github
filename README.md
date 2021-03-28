@@ -7,7 +7,7 @@
 Bike Share Data Analytics
 
 ### Description
-Data analytics for bike shares across major cities
+Data analytics for bike shares across major cities. This analysis will allow greater visibility on the status of the bike sharing community
 
 ### Files used
 new_york_city.csv, washington.csv, chicago.csv
