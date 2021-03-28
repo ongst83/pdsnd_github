@@ -1,3 +1,4 @@
+<<<<<<< .merge_file_a25524
 <<<<<<< .merge_file_a11116
 <<<<<<< .merge_file_a06644
 
@@ -12,6 +13,11 @@
 #Beginning of the python script
 
 >>>>>>> .merge_file_a03000
+||||||| .merge_file_a23132
+=======
+#Beginning of the python script
+
+>>>>>>> .merge_file_a01752
 import time
 import pandas as pd
 import numpy as np
@@ -25,6 +31,7 @@ MONTHS_DATA = [
               'february',
               'march',
               'april',
+<<<<<<< .merge_file_a25524
 <<<<<<< .merge_file_a11116
 <<<<<<< .merge_file_a06644
               'may' ,
@@ -38,7 +45,14 @@ MONTHS_DATA = [
               'may' , 
 =======
               'may' ,
+||||||| .merge_file_a23132
+              'may' , 
+=======
+              'may' ,
               'june' ,
+>>>>>>> .merge_file_a01752
+              'june' ,
+<<<<<<< .merge_file_a25524
 >>>>>>> .merge_file_a03000
               'june' ,
 <<<<<<< .merge_file_a11116
@@ -72,6 +86,18 @@ MONTHS_DATA = [
               'september',
               'october',
 >>>>>>> .merge_file_a03000
+||||||| .merge_file_a23132
+              'june' , 
+              'july', 
+              'august', 
+              'september', 
+              'october', 
+=======
+              'july',
+              'august',
+              'september',
+              'october',
+>>>>>>> .merge_file_a01752
               'november',
               'december',
               'all']
