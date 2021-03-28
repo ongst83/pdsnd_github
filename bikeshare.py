@@ -31,6 +31,7 @@ MONTHS_DATA = [
               'february',
               'march',
               'april',
+<<<<<<< .merge_file_a13780
 <<<<<<< .merge_file_a25524
 <<<<<<< .merge_file_a11116
 <<<<<<< .merge_file_a06644
@@ -49,7 +50,13 @@ MONTHS_DATA = [
               'may' , 
 =======
               'may' ,
+||||||| .merge_file_a27952
+              'may' , 
+=======
+              'may' ,
+>>>>>>> .merge_file_a21812
               'june' ,
+<<<<<<< .merge_file_a13780
 >>>>>>> .merge_file_a01752
               'june' ,
 <<<<<<< .merge_file_a25524
@@ -98,6 +105,19 @@ MONTHS_DATA = [
               'september',
               'october',
 >>>>>>> .merge_file_a01752
+||||||| .merge_file_a27952
+              'june' , 
+              'july', 
+              'august', 
+              'september', 
+              'october', 
+=======
+              'june' ,
+              'july',
+              'august',
+              'september',
+              'october',
+>>>>>>> .merge_file_a21812
               'november',
               'december',
               'all']
